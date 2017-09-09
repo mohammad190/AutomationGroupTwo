@@ -34,7 +34,7 @@ public class CommonAPI {
             System.setProperty("webdriver.opera.driver", "Generic/driver/operadriver.exe");
             driver = new OperaDriver();
         } else {
-            System.out.println("Choose from: Firefox/Chrome/IE/Opera.");
+            System.err.println("Choose from: Firefox/Chrome/IE/Opera.");
         }
         return driver;
     }
