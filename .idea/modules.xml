@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AutomationGroupTwo.iml" filepath="$PROJECT_DIR$/AutomationGroupTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankOfAmerica/BankOfAmerica.iml" filepath="$PROJECT_DIR$/BankOfAmerica/BankOfAmerica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
     </modules>
   </component>
 </project>
