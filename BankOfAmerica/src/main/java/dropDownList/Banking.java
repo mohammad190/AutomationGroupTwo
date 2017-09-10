@@ -59,6 +59,7 @@ public class Banking extends CommonAPI {
         List_Banking_Checking.click();
         Banking_Checking_ZipCode.sendKeys("11373");
         Banking_Checking_Go.click();
+        Thread.sleep(2000);
     }
 
     public void Savings() {}
