@@ -6,8 +6,6 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
-import java.util.concurrent.TimeUnit;
-
 public class Banking extends CommonAPI {
 
     public static Actions action = new Actions(driver);

@@ -13,6 +13,7 @@
         <module>BankOfAmerica</module>
         <module>Generic</module>
         <module>MassMutual</module>
+        <module>BankOfAmerica</module>
     </modules>
 
     <dependencyManagement>
