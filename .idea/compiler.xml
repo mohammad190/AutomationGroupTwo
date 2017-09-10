@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="BankOfAmerica" />
         <module name="Generic" />
+        <module name="MassMutual" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AutomationGroupTwo" target="1.8" />
       <module name="BankOfAmerica" target="1.8" />
       <module name="Generic" target="1.8" />
+      <module name="MassMutual" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
